@@ -13,7 +13,6 @@
   letter-spacing: 0.01em;
   font-weight: 600;
   display: inline-block;
-  min-width: 80px;
 }
 .nav-button {
   background-color: var(--color-gray);
@@ -23,7 +22,7 @@
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  padding: 0 29px 0 9px;
+  padding: 0 29px 0 10px;
   white-space: nowrap;
 }
 .button1 {
@@ -32,10 +31,9 @@
   font-weight: 600;
   display: inline-block;
   text-shadow: 0 4px 4px rgba(247, 248, 255, 0.2);
-  min-width: 43px;
 }
 .nav-button1 {
-  width: 82px;
+  width: auto;
   background-color: var(--color-gray);
   border-right: 2px solid var(--color-gainsboro-100);
   box-sizing: border-box;
@@ -45,7 +43,7 @@
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  padding: 0 28px 0 8px;
+  padding: 0 29px 0 10px;
 }
 .button2 {
   position: relative;
@@ -53,7 +51,6 @@
   font-weight: 600;
   display: inline-block;
   text-shadow: 0 4px 4px rgba(247, 248, 255, 0.2);
-  min-width: 56px;
 }
 .menu-items,
 .nav-button2,
@@ -66,7 +63,7 @@
   background-color: var(--color-gray);
   overflow: hidden;
   justify-content: center;
-  padding: 0 var(--padding-11xl) 0 var(--padding-3xs);
+  padding: 0 29 0 10px;
 }
 .menu-items,
 .resume {
