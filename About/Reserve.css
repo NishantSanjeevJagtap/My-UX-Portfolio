@@ -268,14 +268,14 @@ hr{
     color: #000;
     padding: 0%;}
 #project_img01{
-    background-image: url(/Work/Projects/P_01/P01_landing_page.png);
+    background-image: url(../Work/Projects/P_01/P01_landing_page.png);
     background-size: cover;
     width: auto;
     height: 350px;
     background-color: aqua;
     border-radius: 20px;}
 #project_img02{
-    background-image: url(/Work/Projects/P_02/P02_landing_page.png);
+    background-image: url(../Work/Projects/P_02/P02_landing_page.png);
     background-size: cover;
     width: auto;
     height: 350px;
@@ -341,14 +341,14 @@ hr{
         color: #000;
         padding: 0%;}
     #project_img01{
-        background-image: url(/Work/Projects/P_01/P01_landing_page.png);
+        background-image: url(../Work/Projects/P_01/P01_landing_page.png);
         background-size: cover;
         width: auto;
         height: 30vw;
         background-color: aqua;
         border-radius: 20px;}
     #project_img02{
-        background-image: url(/Work/Projects/P_02/P02_landing_page.png);
+        background-image: url(../Work/Projects/P_02/P02_landing_page.png);
         background-size: cover;
         width: auto;
         height: 30vw;
@@ -415,14 +415,14 @@ hr{
         color: #000;
         padding: 0%;}
     #project_img01{
-        background-image: url(/Work/Projects/P_01/P01_landing_page.png);
+        background-image: url(../Work/Projects/P_01/P01_landing_page.png);
         background-size: cover;
         width: auto;
         height: 60vw;
         background-color: aqua;
         border-radius: 20px;}
     #project_img02{
-        background-image: url(/Work/Projects/P_02/P02_landing_page.png);
+        background-image: url(../Work/Projects/P_02/P02_landing_page.png);
         background-size: cover;
         width: auto;
         height: 60vw;
@@ -615,7 +615,7 @@ hr{
         flex-direction: row;
         justify-content: space-evenly;}
     #profile_pic{
-        background-image: url(/About/Profile_pic.jpg);
+        background-image: url(Profile_pic.jpg);
         background-size: cover;
         background-color: aqua;
         width: 350px;
@@ -654,7 +654,7 @@ hr{
         flex-direction: column;
         justify-content: space-evenly;}
     #profile_pic{
-        background-image: url(/About/Profile_pic.jpg);
+        background-image: url(Profile_pic.jpg);
         background-size: cover;
         /* background-color: aqua; */
         width: 300px;
@@ -728,14 +728,14 @@ hr{
     line-height: 30px;
     font-weight: 400;;}
 #Hobbies_img01{
-    background-image: url(/About/images/Painting_img.png);
+    background-image: url(../About/images/Painting_img.png);
     background-size: cover;
     /* background-color: rgb(11, 85, 85); */
     /* border-radius: 2em; */
     width: 500px;
     height: 450px;}
 #Hobbies_img02{
-    background-image: url(/About/images/Bucket_list.png);
+    background-image: url(../About/images/Bucket_list.png);
     background-size: cover;
     /* background-color: rgb(11, 85, 85); */
     /* border-radius: 2em; */
@@ -784,14 +784,14 @@ hr{
         line-height: 30px;
         font-weight: 400;;}
     #Hobbies_img01{
-        background-image: url(/About/images/Painting_img.png);
+        background-image: url(../About/images/Painting_img.png);
         background-size: cover;
         /* background-color: rgb(11, 85, 85); */
         /* border-radius: 2em; */
         width: 500px;
         height: 450px;}
     #Hobbies_img02{
-        background-image: url(/About/images/Bucket_list.png);
+        background-image: url(../About/images/Bucket_list.png);
         background-size: cover;
         /* background-color: rgb(11, 85, 85); */
         /* border-radius: 2em; */
@@ -824,7 +824,7 @@ hr{
     border-radius: 0em;
     padding: 0%;}
 #Experience_img01{
-    background-image: url(/About/images/R3sys_Internship.png);
+    background-image: url(../About/images/R3sys_Internship.png);
     background-size: cover;
     /* background-color: rgb(11, 85, 85); */
     width: 400px;
@@ -905,7 +905,7 @@ hr{
     border-radius: 0em;
     padding: 0%;}
 #Education_img01{
-    background-image: url(/About/images/google\ _course_01.png);
+    background-image: url(../About/images/google\ _course_01.png);
     background-size: cover;
     background-color: rgb(11, 85, 85);
     width: 410px;
@@ -914,7 +914,7 @@ hr{
     border: 1px solid #2b363e;
     border-radius: 20px;}
 #Education_img02{
-    background-image: url(/About/images/college_pic.jpg);
+    background-image: url(../About/images/college_pic.jpg);
     background-size: cover;
     background-color: rgb(11, 85, 85);
     width: 400px;
@@ -922,7 +922,7 @@ hr{
     border: 1px solid #2b363e;
     border-radius: 20px;}
 #Education_img03{
-    background-image: url(/About/images/college_pic.jpg);
+    background-image: url(../About/images/college_pic.jpg);
     background-size: cover;
     background-color: rgb(11, 85, 85);
     width: 400px;
@@ -930,7 +930,7 @@ hr{
     border: 1px solid #2b363e;
     border-radius: 20px;}
 #Education_img04{
-    background-image: url(/About/images/college_pic.jpg);
+    background-image: url(../About/images/college_pic.jpg);
     background-size: cover;
     background-color: rgb(11, 85, 85);
     width: 400px;
@@ -983,14 +983,14 @@ hr{
     border-radius: 0em;
     padding: 0%;}
 #Certificates_img01{
-    background-image: url(/About/images/google\ _course_01.png);
+    background-image: url(../About/images/google\ _course_01.png);
     background-size: cover;
     background-color: rgb(11, 85, 85);
     /* border-radius: 2em; */
     width: auto;
     height: 310px;}
 #Certificates_img02{
-    background-image: url(/About/images/Alpha_java.png);
+    background-image: url(../About/images/Alpha_java.png);
     background-size: cover;
     background-color: rgb(11, 85, 85);
     /* border-radius: 2em; */
@@ -998,7 +998,7 @@ hr{
     width: auto;
     height: 290px;}
 #Certificates_img03{
-    background-image: url(/About/images/sunhack.png);
+    background-image: url(../About/images/sunhack.png);
     background-size: cover;
     background-color: rgb(11, 85, 85);
     /* border-radius: 2em; */
@@ -1006,7 +1006,7 @@ hr{
     width: auto;
     height: 320px;}
 #Certificates_img04{
-    background-image: url(/About/images/TechHunt_2022_Certificate.png);
+    background-image: url(../About/images/TechHunt_2022_Certificate.png);
     background-size: cover;
     background-color: rgb(11, 85, 85);
     /* border-radius: 2em; */
