@@ -572,22 +572,21 @@ hr{
 
                                         /* About page  */
 #about_me_container{
-    margin-top: 10px;
     /* background-color: rgb(231, 196, 185); */
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;}
 #profile_pic{
-    background-image: url(/About/Profile_pic.jpg);
+    background-image: url(Profile_pic.jpg);
     background-size: cover;
     background-color: aqua;
     width: 400px;
     height: 500px;
     border-radius: 20px;
-    margin: 60px;
+    margin: 100px;
     margin-right: 0px;
     display: inline-block;
-    align-self: center;}
+    }
 #profile_details{
     /* background-color: aqua; */
     width: 500px;
