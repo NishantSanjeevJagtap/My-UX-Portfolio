@@ -169,7 +169,6 @@
 }
 .action-icons,
 .navnar {
-  padding: var(--padding-3xs);
   gap: var(--gap-3xs);
 }
 .navnar {
