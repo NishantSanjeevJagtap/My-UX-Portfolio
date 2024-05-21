@@ -10,23 +10,23 @@
 }
 #Before_Redesign_Background{
     /* background-image:url(/Images/02.Brfore\ Redesign.png); */
-    width: 100%;
+    width: 100vw;
     height: auto;
 }
 #Content_Structure_Before_Background{
-        width: 100%;
+        width: 100vw;
         height: auto;
 }
 #After_Redesign_Background{
-    width: 100%;
+    width: 100vw;
     height: auto;
 }
 #Content_Structure_After_Background{
-    width: 100%;
+    width: 100vw;
     height: auto;
 }
 #Content_Structure_Before_Background{
-    width: 100%;
+    width: 100vw;
     height: auto;
 }
 .button-container {
