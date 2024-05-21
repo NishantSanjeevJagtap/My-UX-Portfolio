@@ -5,7 +5,7 @@
 }
 #Title_Page_background{
     /* background-image:url(/Images/01.Title\ Page.png) ; */
-    width: 100%;
+    width: 100vw;
     height: 100vh;
 }
 #Before_Redesign_Background{
