@@ -277,7 +277,7 @@
   padding: var(--padding-31xl) var(--padding-6xl);
 }
 .profile {
-  height:1000px;
+  height:1100px;
   width: 350px;
   align-items: flex-start;
   max-width: 100%;
@@ -506,7 +506,7 @@
   display: flex;
   flex-direction: row;
   align-items: flex-start;
-  justify-content: center;
+  justify-content:flex-start;
   padding: 0 52px 0 0;
   box-sizing: border-box;
   gap: var(--gap-21xl);
