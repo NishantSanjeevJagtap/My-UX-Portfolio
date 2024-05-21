@@ -182,7 +182,7 @@
     flex-direction: row;
     justify-content: left;}
 #box01_c04_01{
-    background-image: url(/Work/Projects/P_01/numbers_logo/01.png);
+    background-image: url(./numbers_logo/01.png);
     background-size: cover;
     /* background-color: #002060; */
     width: 5vw;
@@ -191,7 +191,7 @@
     margin-bottom: 5vw;
     margin-left: 10vw;}
 #box01_c04_02{
-    background-image: url(/Work/Projects/P_01/numbers_logo/02.png);
+    background-image: url(./numbers_logo/02.png);
     background-size: cover;
     /* background-color: #002060; */
     width: 5vw;
@@ -200,7 +200,7 @@
     margin-bottom: 5vw;
     margin-left: 10vw;}
 #box01_c04_03{
-    background-image: url(/Work/Projects/P_01/numbers_logo/03.png);
+    background-image: url(./numbers_logo/03.png);
     background-size: cover;
     /* background-color: #002060; */
     width: 5vw;
@@ -209,7 +209,7 @@
     margin-bottom: 5vw;
     margin-left: 10vw;}
 #box01_c04_04{
-    background-image: url(/Work/Projects/P_01/numbers_logo/04.png);
+    background-image: url(./numbers_logo/04.png);
     background-size: cover;
     /* background-color: #002060; */
     width: 5vw;
@@ -272,7 +272,7 @@
     /* margin-top: 5vw; */
     margin-right: 5vw;}
 #box02_c05{
-    background-image: url(/Work/Projects/P_01/images/persona.png);
+    background-image: url(./images/persona.png);
     background-size: cover;
     /* background-color: rgb(187, 179, 238); */
     width: 45vw;
@@ -321,7 +321,7 @@
     padding-bottom: 1em;
     font-weight:400;}
 .box01_c06{
-    background-image: url(/Work/Projects/P_01/images/journey_map.png);
+    background-image: url(./images/journey_map.png);
     background-size: cover;
     background-color: #d78c85;
     width: 60vw;
@@ -379,42 +379,42 @@
     font-size: 2vw;
     font-weight: bolder;}
 #box03_c07{
-    background-image: url(/Work/Projects/P_01/images/masterclass.png);
+    background-image: url(./images/masterclass.png);
     background-size: cover;
     border-radius: #070707 solid 2vh;
     background-color: rgb(238, 237, 159);
     width: auto;
     height: 14vw;}
 #box04_c07{
-    background-image: url(/Work/Projects/P_01/images/udemy.png);
+    background-image: url(./images/udemy.png);
     background-size: cover;
     border-radius: #070707 solid 2vh;
     background-color: rgb(238, 237, 159);
     width: auto;
     height: 14vw;}
 #box05_c07{
-    background-image: url(/Work/Projects/P_01/images/youtube.png);
+    background-image: url(./images/youtube.png);
     background-size: cover;
     border-radius: #070707 solid 1px;
     background-color: rgb(238, 237, 159);
     width: auto;
     height: 14vw;}
 #box06_c07{
-    background-image: url(/Work/Projects/P_01/images/Dance_studios.png);
+    background-image: url(./images/Dance_studios.png);
     background-size: cover;
     border-radius: #070707 solid 2vh;
     background-color: rgb(238, 237, 159);
     width: auto;
     height: 14vw;}
 #box07_c07{
-    background-image: url(/Work/Projects/P_01/images/Private_dance_lessons.jpg);
+    background-image: url(./images/Private_dance_lessons.jpg);
     background-size: cover;
     border-radius: #070707 solid 2vh;
     background-color: rgb(238, 237, 159);
     width: auto;
     height: 14vw;}
 #box08_c07{
-    background-image: url(/Work/Projects/P_01/images/Dance_fitness_classes.jpg);
+    background-image: url(./images/Dance_fitness_classes.jpg);
     background-size: cover;
     border-radius: #070707 solid 1px;
     background-color: rgb(238, 237, 159);
@@ -546,7 +546,7 @@
     /* margin-top: 5vw; */
     margin-right: 0vw;}
 #box02_c10{
-    background-image: url(/Work/Projects/P_01/images/Sitemap.png);
+    background-image: url(./images/Sitemap.png);
     background-size: cover;
     /* background-color: rgb(187, 179, 238); */
     width: 60vw;
@@ -584,7 +584,7 @@
      padding-bottom: 5vw;
      padding-left: 10vw;}
 .box01_c11{
-    background-image: url(/Work/Projects/P_01/images/crezy8_01.png);
+    background-image: url(./images/crezy8_01.png);
     background-size: cover;
     /* background-color: #d78c85; */
     width: 70vw;
@@ -621,7 +621,7 @@
     /* margin-top: 5vw; */
     margin-right: 10vw;}
 #box02_c12{
-    background-image: url(/Work/Projects/P_01/images/Paper_wireframe.png);
+    background-image: url(./images/Paper_wireframe.png);
     background-size: cover;
     /* background-color: rgb(187, 179, 238); */
     width: 40vw;
@@ -672,7 +672,7 @@
     /* margin-top: 5vw; */
     margin-right: 0vw;}
 #box02_c13{
-    background-image: url(/Work/Projects/P_01/images/digital_wireframe01.png);
+    background-image: url(./images/digital_wireframe01.png);
     background-size: cover;
     /* background-color: rgb(224, 238, 179); */
     width: 50vw;
@@ -680,7 +680,7 @@
     /* margin-top: 5vw; */
     margin-bottom: 5vw;}
 #box05_c13{
-    background-image: url(/Work/Projects/P_01/images/digital_wireframe02.png);
+    background-image: url(./images/digital_wireframe02.png);
     background-size: cover;
     /* background-color: rgb(224, 238, 179); */
     width: 50vw;
@@ -721,7 +721,7 @@
     justify-content: left;
     height: 35vw;}
 .box01_c14{
-    background-image: url(/Work/Projects/P_01/images/Lofi_flow01.png);
+    background-image: url(./images/Lofi_flow01.png);
     background-size: cover;
     /* background-color: #d7cc85; */
     display: inline-block;
@@ -730,7 +730,7 @@
     margin-left: 10vw;
     margin-bottom: 10vw;}
 .box02_c14{
-    background-image: url(/Work/Projects/P_01/images/Lofi_flow02.png);
+    background-image: url(./images/Lofi_flow02.png);
     background-size: cover;
     /* background-color: #d78c85; */
     display: inline-block;
@@ -799,28 +799,28 @@
     width: 4vw;
     height: 4vw;
     margin-left: 16vw;
-    background-image: url(/Work/Projects/P_01/numbers_logo/Study_Type.png);
+    background-image: url(./numbers_logo/Study_Type.png);
     background-size: cover;}
 .box05_c15{
     /* background-color: aquamarine; */
     width: 4vw;
     height: 4vw;
     margin-left: 16vw;
-    background-image: url(/Work/Projects/P_01/numbers_logo/Location.png);
+    background-image: url(./numbers_logo/Location.png);
     background-size: cover;}
 .box06_c15{
     /* background-color: aquamarine; */
     width: 4vw;
     height: 4vw;
     margin-left: 16vw;
-    background-image: url(/Work/Projects/P_01/numbers_logo/Participants.png);
+    background-image: url(./numbers_logo/Participants.png);
     background-size: cover;}
 .box07_c15{
     /* background-color: aquamarine; */
     width: 4vw;
     height: 4vw;
     margin-left: 16vw;
-    background-image: url(/Work/Projects/P_01/numbers_logo/length.png);
+    background-image: url(./numbers_logo/length.png);
     background-size: cover;}
 .box03_c15{
     width: auto;
@@ -873,7 +873,7 @@
     flex-direction: row;
     justify-content: start;}
 .img01_c16{
-    background-image: url(/Work/Projects/P_01/numbers_logo/no_yellow/1.png);
+    background-image: url(./numbers_logo/no_yellow/1.png);
     background-size: cover;
     /* background-color: #d78c85; */
     width: 4vw;
@@ -881,7 +881,7 @@
     margin-left: 10vw;
     margin-right: 2vw;}
 .img02_c16{
-    background-image: url(/Work/Projects/P_01/numbers_logo/no_yellow/2.png);
+    background-image: url(./numbers_logo/no_yellow/2.png);
     background-size: cover;
     /* background-color: #d78c85; */
     width: 4vw;
@@ -889,7 +889,7 @@
     margin-left: 10vw;
     margin-right: 2vw;}
 .img03_c16{
-    background-image: url(/Work/Projects/P_01/numbers_logo/no_yellow/3.png);
+    background-image: url(./numbers_logo/no_yellow/3.png);
     background-size: cover;
     /* background-color: #d78c85; */
     width: 4vw;
@@ -897,7 +897,7 @@
     margin-left: 10vw;
     margin-right: 2vw;}
 .img04_c16{
-    background-image: url(/Work/Projects/P_01/numbers_logo/no_yellow/4.png);
+    background-image: url(./numbers_logo/no_yellow/4.png);
     background-size: cover;
     /* background-color: #d78c85; */
     width: 4vw;
@@ -976,7 +976,7 @@
     justify-content: left;
     height: auto;}
 .box01_c18{
-    background-image: url(/Work/Projects/P_01/images/prototype01.png);
+    background-image: url(./images/prototype01.png);
     background-size: cover;
     /* background-color: #d7cc85; */
     display: inline-block;
@@ -1011,7 +1011,7 @@
     flex-direction: row;
     justify-content: space-evenly;}
 #b00_c18{
-    background-image: url(/Work/Projects/P_01/images/Mokups/desktop/d00.png);
+    background-image: url(./images/Mokups/desktop/d00.png);
     background-size: cover;
     display: inline-block;
     /* background-color: #00D246; */
@@ -1019,7 +1019,7 @@
     border-radius: 1vw;
     height: 30vw;}
 #b01_c18{
-    background-image: url(/Work/Projects/P_01/images/Mokups/desktop/d01.png);
+    background-image: url(./images/Mokups/desktop/d01.png);
     background-size: cover;
     display: inline-block;
     /* background-color: #00D246; */
@@ -1027,7 +1027,7 @@
     width: 46vw;
     height: 65vw;}
 #b02_c18{
-    background-image: url(/Work/Projects/P_01/images/Mokups/desktop/d02.png);
+    background-image: url(./images/Mokups/desktop/d02.png);
     background-size: cover;
     display: inline-block;
     border-radius: 1vw;
@@ -1035,7 +1035,7 @@
     width: 30vw;
     height: 65vw;}
 #b03_c18{
-    background-image: url(/Work/Projects/P_01/images/Mokups/desktop/d03.png);
+    background-image: url(./images/Mokups/desktop/d03.png);
     background-size: cover;
     display: inline-block;
     border-radius: 1vw;
@@ -1043,7 +1043,7 @@
     width: 35vw;
     height: 47vw;}
 #b04_c18{
-    background-image: url(/Work/Projects/P_01/images/Mokups/desktop/d04.png);
+    background-image: url(./images/Mokups/desktop/d04.png);
     background-size: cover;
     border-radius: 1vw;
     display: inline-block;
@@ -1051,7 +1051,7 @@
     width: 35vw;
     height: 47vw;}
 #b05_c18{
-    background-image: url(/Work/Projects/P_01/images/Mokups/desktop/d05.png);
+    background-image: url(./images/Mokups/desktop/d05.png);
     background-size: cover;
     display: inline-block;
     border-radius: 1vw;
@@ -1059,7 +1059,7 @@
     width: 45vw;
     height: 30vw;}
 #b06_c18{
-    background-image: url(/Work/Projects/P_01/images/Mokups/desktop/d06.png);
+    background-image: url(./images/Mokups/desktop/d06.png);
     background-size: cover;
     display: inline-block;
     /* background-color: #00D246; */
@@ -1067,7 +1067,7 @@
     width: 45vw;
     height: 30vw;}
 #b07_c18{
-    background-image: url(/Work/Projects/P_01/images/Mokups/desktop/d07.png);
+    background-image: url(./images/Mokups/desktop/d07.png);
     background-size: cover;
     display: inline-block;
     border-radius: 1vw;
@@ -1075,7 +1075,7 @@
     width: 40vw;
     height: 45vw;}
 #b08_c18{
-    background-image: url(/Work/Projects/P_01/images/Mokups/desktop/d08.png);
+    background-image: url(./images/Mokups/desktop/d08.png);
     background-size: cover;
     display: inline-block;
     border-radius: 1vw;
@@ -1084,7 +1084,7 @@
     height: 35vw;}
 /* mobile */
 #m00_c18{
-    background-image: url(/Work/Projects/P_01/images/Mokups/mobile/m00.png);
+    background-image: url(./images/Mokups/mobile/m00.png);
     background-size: cover;
     display: inline-block;
     /* background-color: #00D246; */
@@ -1092,7 +1092,7 @@
     border-radius: 0.3vw;
     height: 30vw;}
 #m01_c18{
-    background-image: url(/Work/Projects/P_01/images/Mokups/mobile/m01.png);
+    background-image: url(./images/Mokups/mobile/m01.png);
     background-size: cover;
     display: inline-block;
     /* background-color: #00D246; */
@@ -1100,7 +1100,7 @@
     width: 15vw;
     height: 56vw;}
 #m02_c18{
-    background-image: url(/Work/Projects/P_01/images/Mokups/mobile/m02.png);
+    background-image: url(./images/Mokups/mobile/m02.png);
     background-size: cover;
     display: inline-block;
     border-radius: 0.3vw;
@@ -1108,7 +1108,7 @@
     width: 15vw;
     height: 56vw;}
 #m03_c18{
-    background-image: url(/Work/Projects/P_01/images/Mokups/mobile/m03.png);
+    background-image: url(./images/Mokups/mobile/m03.png);
     background-size: cover;
     display: inline-block;
     border-radius: 0.3vw;
@@ -1116,7 +1116,7 @@
     width: 15vw;
     height: 56vw;}
 #m04_c18{
-    background-image: url(/Work/Projects/P_01/images/Mokups/mobile/m04.png);
+    background-image: url(./images/Mokups/mobile/m04.png);
     background-size: cover;
     display: inline-block;
     border-radius: 0.3vw;
@@ -1124,7 +1124,7 @@
     width: 15vw;
     height: 56vw;}
 #m05_c18{
-    background-image: url(/Work/Projects/P_01/images/Mokups/mobile/m05.png);
+    background-image: url(./images/Mokups/mobile/m05.png);
     background-size: cover;
     display: inline-block;
     border-radius: 1vw;
@@ -1133,7 +1133,7 @@
     width: 15vw;
     height: 56vw;}
 #m06_c18{
-    background-image: url(/Work/Projects/P_01/images/Mokups/mobile/m06.png);
+    background-image: url(./images/Mokups/mobile/m06.png);
     background-size: cover;
     display: inline-block;
     border-radius: 0.3vw;
@@ -1141,7 +1141,7 @@
     width: 15vw;
     height: 56vw;}
 #m07_c18{
-    background-image: url(/Work/Projects/P_01/images/Mokups/mobile/m07.png);
+    background-image: url(./images/Mokups/mobile/m07.png);
     background-size: cover;
     display: inline-block;
     border-radius: 0.2vw;
@@ -1149,7 +1149,7 @@
     width: 15vw;
     height: 53vw;}
 #m08_c18{
-    background-image: url(/Work/Projects/P_01/images/Mokups/mobile/m08.png);
+    background-image: url(./images/Mokups/mobile/m08.png);
     background-size: cover;
     display: inline-block;
     border-radius: 0.2vw;
@@ -1174,7 +1174,7 @@
     justify-content: left;
     height: auto;}
 .box02_c20{
-    background-image: url(/Work/Projects/P_01/images/hifi_flow.png);
+    background-image: url(./images/hifi_flow.png);
     background-size: cover;
     /* background-color: #d78c85; */
     display: inline-block;
@@ -1210,7 +1210,7 @@
      padding-bottom: 5vw;
      padding-left: 10vw;}
 .box00_c21{
-    background-image: url(/Work/Projects/P_01/images/Design_System/01.png);
+    background-image: url(./images/Design_System/01.png);
     background-size: cover;
     /* background-color: #85d78b; */
     margin-bottom: 5vw;
@@ -1218,7 +1218,7 @@
     width: 60vw;
     height: 95vw;}
 .box01_c21{
-    background-image: url(/Work/Projects/P_01/images/Design_System/02.png);
+    background-image: url(./images/Design_System/02.png);
     background-size: cover;
     /* background-color: #d78c85; */
     margin-left: 10vw;
@@ -1243,21 +1243,21 @@
     flex-direction: column;
     justify-content: start;}
 .logo01_c22{
-    background-image: url(/Work/Projects/P_01/numbers_logo/green/1.png);
+    background-image: url(./numbers_logo/green/1.png);
     background-size: cover;
     /* background-color: #e1f8c6; */
     width: 4vw;
     height: 4vw;
     margin-left: 8vw;}
 .logo02_c22{
-    background-image: url(/Work/Projects/P_01/numbers_logo/green/2.png);
+    background-image: url(./numbers_logo/green/2.png);
     background-size: cover;
     /* background-color: #e1f8c6; */
     width: 4vw;
     height: 4vw;
     margin-left: 8vw;}
 .logo03_c22{
-    background-image: url(/Work/Projects/P_01/numbers_logo/green/3.png);
+    background-image: url(./numbers_logo/green/3.png);
     background-size: cover;
     /* background-color: #e1f8c6; */
     width: 4vw;
@@ -1345,14 +1345,14 @@
     flex-direction: row;
     justify-content: left;}
 .logo_01_c24{
-    background-image: url(/Work/Projects/P_01/numbers_logo/Voilet/Impact.png);
+    background-image: url(./numbers_logo/Voilet/Impact.png);
     background-size: cover;
     /* background-color: #e1f8c6; */
     display: inline-block;
     width: 3.95vw;
     height: 4vw;}
 .logo_02_c24{
-    background-image: url(/Work/Projects/P_01/numbers_logo/Voilet/What_I_learned.png);
+    background-image: url(./numbers_logo/Voilet/What_I_learned.png);
     background-size: cover;
     /* background-color: #e1f8c6; */
     display: inline-block;
@@ -1391,28 +1391,28 @@
     flex-direction: column;
     justify-content: start;}
 .logo01_c25{
-    background-image: url(/Work/Projects/P_01/numbers_logo/Voilet/1.png);
+    background-image: url(./numbers_logo/Voilet/1.png);
     background-size: cover;
     /* background-color: #e1f8c6; */
     width: 4vw;
     height: 4vw;
     margin-left: 8vw;}
 .logo02_c25{
-    background-image: url(/Work/Projects/P_01/numbers_logo/Voilet/2.png);
+    background-image: url(./numbers_logo/Voilet/2.png);
     background-size: cover;
     /* background-color: #e1f8c6; */
     width: 4vw;
     height: 4vw;
     margin-left: 8vw;}
 .logo03_c25{
-    background-image: url(/Work/Projects/P_01/numbers_logo/Voilet/3.png);
+    background-image: url(./numbers_logo/Voilet/3.png);
     background-size: cover;
     /* background-color: #e1f8c6; */
     width: 4vw;
     height: 4vw;
     margin-left: 8vw;}
 .logo04_c25{
-    background-image: url(/Work/Projects/P_01/numbers_logo/Voilet/pencil.png);
+    background-image: url(./numbers_logo/Voilet/pencil.png);
     background-size: cover;
     /* background-color: #e1f8c6; */
     width: 4vw;
