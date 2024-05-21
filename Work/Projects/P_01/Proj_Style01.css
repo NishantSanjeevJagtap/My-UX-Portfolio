@@ -38,7 +38,7 @@
                                             /*  body  */
 #landing_page{
     /* background-color: aqua; */
-    background-image: url(/Work/Projects/P_01/P01_landing_page_web.png);
+    background-image: url(P01_landing_page_web.png);
     background-size: cover;
     width: 100vw;
     height: 100vh;}
