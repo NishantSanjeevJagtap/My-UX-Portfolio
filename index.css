@@ -492,7 +492,7 @@
 }
 .headline-description {
   flex: 1;
-  justify-content: center;
+  justify-content:flex-start;
   padding: var(--padding-base-5) 5px var(--padding-base-5) 0;
   box-sizing: border-box;
   min-width: 317px;
@@ -691,7 +691,7 @@
 }
 .headline-description1 {
   flex: 1;
-  justify-content: center;
+  justify-content:flex-start;
   min-width: 411px;
 }
 .project-02 {
