@@ -277,7 +277,7 @@
   padding: var(--padding-31xl) var(--padding-6xl);
 }
 .profile {
-  height:auto;
+  height:1200px;
   width: 350px;
   align-items: flex-start;
   max-width: 100%;
@@ -802,7 +802,7 @@
   }
   .my-description {
     padding-top: var(--padding-13xl);
-    padding-bottom: var(--padding-13xl);
+    padding-bottom:100px;
     box-sizing: border-box;
   }
   .image-link {
