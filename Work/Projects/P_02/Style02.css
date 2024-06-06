@@ -46,18 +46,18 @@
     font-weight: bold;
     cursor: pointer;
     color: #F7F9FD;
-    background-color: #A6C1E5;
-    border: 1px solid #4885D7; /* Add 1px solid border */
+    background-color: #f48877;
+    border: 1px solid #FF614A; /* Add 1px solid border */
     border-radius: 20px;
     transition: background-color 0.2s ease-in-out;
   }
   
   .button-container button:hover {
-    background-color: #4885D7;
+    background-color: #FF614A;
   }
   
   .button-container button.clicked {
-    background-color: #295b9c;
+    background-color: #c44330;
   }
   
   .arrow {
